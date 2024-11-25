@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==wbTpneMVWN21SZWRXV5AFcEd0TCdFNfdjdutkZmV1U2RUQDNnejR0SZ9UejQVNJd3VjJUQpwd=12609941749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
